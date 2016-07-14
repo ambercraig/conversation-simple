@@ -84,8 +84,8 @@ understands that in both cases your intent is the same and responds accordingly.
 
 <a name="returnlocal">
 2 In Bluemix, [create a Conversation Service](http://www.ibm.com/watson/developercloud/doc/conversation/convo_getstart.shtml).
-- [Import a workspace](#workspace)
 - Copy the [Service Credentials](#credentials) for later use.
+- [Import a workspace](#workspace)
 - <b>Return to these steps</b>
 </a>
 
@@ -166,6 +166,9 @@ To build the application:
 2 Select **ADD CREDENTIALS**. Name your credentials then select **ADD**.
 
 3 Copy the credentials (or remember this location) for later use.
+
+4 Return to the steps you were following:
+- For Local, [return here](#returnlocal).
 
 
 <a name="workspace">
